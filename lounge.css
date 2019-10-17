@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+  font-style: oblique;
+  font-size: 250%;
 }
 h1, h2 {
   font-family: sans-serif;
@@ -14,3 +16,13 @@ p {
 em{
   font-family: serif;
 }
+p.greentea {
+  color: green;
+}
+p.raspberry {
+  color: blue;
+}
+p.blueberry {
+  color: purple;
+}
+
